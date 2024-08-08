@@ -1,23 +1,23 @@
 # main links links
 main:
 
-  - title: "Projects"
-    url: /portfolio/
-        
-  - title: "CV"
-    url: /cv/ 
+  - title: "Research"
+    url: /research/
     
   - title: "Posts"
     url: /year-archive/
 
-  - title: "Posters"
-    url: /poster/
-
-  - title: "Publications"
+  - title: "Publication & Poster"
     url: /publications/
+
+  # - title: "Publications"
+  #   url: /publications/
   
   - title: "Guide"
     url: /markdown/
+
+  - title: "CV"
+    url: /cv/ 
 
   - title: "Contact"
     url: /contact/
