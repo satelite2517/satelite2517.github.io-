@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+* [Sunjae-Lee_CV.pdf](https://satelite2517.github.io/files/paper1.pdf)
+
 Research interest
 ======
 fusion, ML/DL, AI, transport, plasma physics
