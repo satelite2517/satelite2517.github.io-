@@ -9,56 +9,51 @@ redirect_from:
 
 {% include base_path %}
 
+Research interest
+======
+fusion, ML/DL, AI, transport, plasma physics
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Seoul National University, Colleage of Liberal Studies, 2021 - now
+  * B.S. in Department of Computer Science and Engineering 
+  * B.S. in Department of Physics and Astronomy (Physics Program Major)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2023 - Now: Research Assistant
+  * NUPLEX, Seoul National University (link)[http://nuplex.snu.ac.kr/]
+  * Improvements of database system and analysis suite and simulations in VEST
+  * Supervisor: Prof. Yong-Seok Hwang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2022 - Nov 2022: Research Assistant
+  * COSS 
+  * Evaluation of the Influence of Humic Acid on Electrochemical Lithium Recovery
+  * Supervisor: Prof. Jin Soo Kang
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+Posters & Abstracts
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+
+Projects & Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Skills
+======
+* Computer languages 
+  * Python, Java, Matlab, C++, C
+* Computing
+  * Linux, docker, Nginx, Apache
+  * Cuda, mpi

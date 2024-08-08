@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sun jae Lee - Personal Website"
+title                    : "Sun jae Lee"
 title_separator          : "-"
 name                     : &name "Sun jae Lee"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_2.jpeg"
   name             : "Sun jae Lee"
   pronouns         : #"she/her"  
-  bio              : "Hi. I'm Sun jae Lee. I'm a undergraduate student at Seoul National University. I'm interested in fusion, plasma physics, and machine learning."
+  bio              : "Hi. I'm Sun jae Lee. I'm a undergraduate student at Seoul National University. I'm interested in #fusion, #plasma_physics, and #machine_learning."
   location         : "Seoul, Korea"
   employer         : "Seoul National University"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : Sun jae Lee
+  linkedin         : 이선재-학생-자유전공학부-81002727a
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
