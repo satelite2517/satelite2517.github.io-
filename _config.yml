@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile_2.jpeg"
   name             : "Sun jae Lee"
-  pronouns         : "she/her"  
-  bio              : "Hi. I'm Sun jae Lee. I'm a undergraduate student at Seoul National University. I'm interested in #fusion, #plasma_physics, and #machine_learning."
+  pronouns         : # None
+  bio              : "Undergraduate student at SNU #fusion #plasma_physics #ML/DL #HPC"
   location         : "Seoul, Korea"
   employer         : "Seoul National University"
   uri              : # URL
